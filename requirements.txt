@@ -1,7 +1,7 @@
 # Core Office document manipulation
 python-pptx>=0.6.21
 openpyxl>=3.1.0
-pypdf>=3.17.0
+pypdf>=6.6.0
 
 # XML processing and security
 defusedxml>=0.7.1
